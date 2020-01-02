@@ -10,7 +10,7 @@ function handleClick(e) {
 /* Write your implementation of greet() */
 
 function greet(time) {
-  
+  const hour = 
 }
 
 /* Write your implementation of displayMessage() */
