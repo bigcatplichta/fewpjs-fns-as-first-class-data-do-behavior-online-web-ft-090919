@@ -11,6 +11,8 @@ function handleClick(e) {
 
 function greet(time) {
   const hour = time.split(":")[0]
+  if ( hour < 12 ) return "Good Morning"
+  if ( hour <)
 }
 
 /* Write your implementation of displayMessage() */
