@@ -9,6 +9,7 @@ function handleClick(e) {
 
 /* Write your implementation of greet() */
 
+/* How would I handle negative number inputs? */
 function greet(time) {
   const hour = time.split(":")[0]
   if ( hour < 12 ) return "Good Morning"
@@ -17,3 +18,5 @@ function greet(time) {
 }
 
 /* Write your implementation of displayMessage() */
+
+function displayMessage()
